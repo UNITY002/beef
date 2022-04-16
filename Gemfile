@@ -6,6 +6,8 @@
 # See the file 'doc/COPYING' for copying permission
 #
 #gem 'simplecov', require: false, group: :test
+source "https://rubygems.org"
+gem 'github-pages'
 gem 'eventmachine'
 gem 'thin'
 gem 'sinatra', '>= 2.0.2'
